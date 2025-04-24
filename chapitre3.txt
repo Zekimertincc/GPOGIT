@@ -1,0 +1,50 @@
+Chapitre 3 : Trop Court
+
+      ////\\\\
+      |      |
+     @  O  O  @
+      |  ~   |         \__
+       \ -- /          |\ |
+     ___|  |___        | \|
+    /          \      /|__|
+   /            \    / /
+  /  /| .  . |\  \  / /
+ /  / |      | \  \/ /
+<  <  |      |  \   /
+ \  \ |  .   |   \_/
+  \  \|______|
+    \_|______|
+      |      |
+      |  |   |
+      |  |   |
+      |__|___|
+      |  |  |
+      (  (  |
+      |  |  |
+      |  |  |
+     _|  |  |
+ ____________)
+
+Il s’appelait **P01-T**.
+
+Il était conçu pour réparer des satellites, mais il avait...  
+un **gros problème existentiel** : ses bras.
+
+> "Pourquoi tout est loin ? Pourquoi la soupe est toujours hors de portée ?"
+
+Il vivait dans une station, seul, avec son chat (quantique bien sûr).
+
+Chaque jour, il notait les choses qu’il ne pouvait pas atteindre.  
+Le bouton rouge.  
+Le dernier cookie.  
+Les câlins.
+
+Un jour, il prit une décision :  
+> “Je vais construire... **des extensions de bras !**”
+
+Ce fut un échec.  
+Mais il apprit une leçon importante :  
+> "Parfois, les choses les plus proches sont déjà suffisantes."
+
+Fin.
+
